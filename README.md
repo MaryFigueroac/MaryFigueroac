@@ -24,17 +24,6 @@ Este perfil refleja mi proceso de aprendizaje, los proyectos que voy desarrollan
 <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
 </p>
 
-## 📊 Mis estadísticas en GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaryFigueroac&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryFigueroac&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🌱 Actualmente
 
