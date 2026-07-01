@@ -21,10 +21,8 @@ Este perfil refleja mi proceso de aprendizaje, los proyectos que voy desarrollan
 ## 🛠️ Tecnologías que estoy aprendiendo
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
 </p>
-
----
 
 ## 📊 Mis estadísticas en GitHub
 
