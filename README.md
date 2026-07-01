@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy Mary Figueroa</h1>
 
-<!--
-**MaryFigueroac/MaryFigueroac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🌱 Estudiante de Desarrollo Full Stack con Java</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Actualmente me encuentro en proceso de formación como desarrolladora Full Stack.
+Este perfil refleja mi proceso de aprendizaje, los proyectos que voy desarrollando y los conocimientos que voy adquiriendo en el camino.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 Sobre mí
+
+- 🌱 Actualmente cursando un Bootcamp de Desarrollo Full Stack con Java.
+- 📚 Aprendiendo Java, HTML, CSS, JavaScript, Git y MySQL.
+- 💻 Me gusta aprender construyendo proyectos y enfrentando nuevos retos.
+- 🚀 Mi objetivo es seguir creciendo profesional y personalmente en el desarrollo de software.
+
+---
+
+## 🛠️ Tecnologías que estoy aprendiendo
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,vscode" />
+</p>
+
+---
+
+## 📊 Mis estadísticas en GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaryFigueroac&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryFigueroac&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌱 Actualmente
+
+- 📖 Aprendiendo un concepto nuevo cada día.
+- 💡 Desarrollando proyectos para fortalecer mis habilidades.
+- 🤝 Construyendo las bases para convertirme en desarrolladora Full Stack.
+
+---
+
+## ✨ Una frase que me inspira
+
+> *"Cada proyecto es una oportunidad para aprender algo nuevo."* 🚀
