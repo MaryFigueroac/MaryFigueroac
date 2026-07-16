@@ -1,18 +1,16 @@
 # ¡Hola! Soy Mary Figueroa 👋
 
-### Desarrolladora Web Full Stack en formación
+### Desarrolladora Web Full Stack
 
-Soy Profesional en Administración de Empresas y actualmente me encuentro en formación como Desarrolladora Web Full Stack en Generation Colombia.
-
-Me interesa construir soluciones digitales funcionales, organizadas y centradas en las necesidades de las personas. Mi experiencia administrativa me ha permitido fortalecer habilidades como la organización, el análisis, la planificación, la comunicación y la resolución de problemas.
+Me apasiona crear soluciones web funcionales, claras y centradas en las personas. Disfruto transformar ideas en aplicaciones digitales mediante código, diseño y buenas prácticas de desarrollo.
 
 ---
 
 ## Sobre mí
 
-Actualmente fortalezco mis conocimientos mediante proyectos prácticos, trabajo colaborativo y aprendizaje continuo.
+Soy una desarrolladora comprometida con la creación de experiencias web modernas y útiles. He trabajado en proyectos individuales y colaborativos que incluyen interfaces web, consumo de APIs, bases de datos y control de versiones.
 
-Me considero una persona responsable, organizada y comprometida con cada reto. Busco seguir creciendo profesionalmente mientras aporto valor en los proyectos en los que participo.
+Me caracterizo por ser una persona responsable, organizada y orientada a los detalles. Busco aportar valor en cada proyecto, colaborar con equipos de trabajo y asumir retos que impulsen la creación de soluciones tecnológicas de calidad.
 
 ---
 
@@ -41,34 +39,4 @@ Tienda online de ropa femenina desarrollada de forma colaborativa. Participé en
 
 ### NASA APOD Explorer
 
-Aplicación web que consume la API Astronomy Picture of the Day de la NASA para mostrar imágenes astronómicas, descripciones y datos relevantes.
-
-[Ver repositorio](https://github.com/julian-up/API-de-la-NASA)
-
----
-
-## Formación
-
-- **Generation Colombia**  
-  Bootcamp de Desarrollo Full Stack Java  
-  2026 - Actualidad
-
-- **Universidad del Atlántico**  
-  Profesional en Administración de Empresas  
-  2016 - 2021
-
-- **SENA**  
-  Tecnóloga en Gestión Empresarial  
-  2014 - 2016
-
----
-
-## Contacto
-
-- GitHub: [@MaryFigueroac](https://github.com/MaryFigueroac)
-- LinkedIn: [Mary Figueroa Campo](https://www.linkedin.com/in/mary-figueroa-campo/)
-- Correo: marycfigueroac@gmail.com
-
----
-
-> “Cada proyecto representa una oportunidad para aprender, mejorar y seguir construyendo mi camino en el desarrollo de software.”
+Aplicación web que consume la API Astronomy Picture of the Day de la NASA para m
