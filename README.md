@@ -29,7 +29,7 @@ Me caracterizo por ser una persona responsable, organizada y orientada a los det
 
 ---
 
-## Proyectos destacados
+## Proyecto destacado
 
 ### RODAMA
 
@@ -37,6 +37,9 @@ Tienda online de ropa femenina desarrollada de forma colaborativa. Participé en
 
 [Ver repositorio](https://github.com/Camilo-Sanchez144/Rodama_Project)
 
-### NASA APOD Explorer
 
-Aplicación web que consume la API Astronomy Picture of the Day de la NASA para m
+## Contacto
+
+- GitHub: [@MaryFigueroac](https://github.com/MaryFigueroac)
+- LinkedIn: [Mary Figueroa Campo](https://www.linkedin.com/in/mary-figueroa-campo/)
+- Correo: marycfigueroac@gmail.com
