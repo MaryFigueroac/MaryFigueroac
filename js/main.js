@@ -1,7 +1,7 @@
 const texts = [
   "Desarrolladora Web Full Stack",
-  "Construyendo soluciones funcionales",
-  "Aprendizaje continuo"
+  "Diseño, desarrollo e innovación",
+  "Soluciones eficientes y escalables"
 ];
 
 let currentText = 0;
